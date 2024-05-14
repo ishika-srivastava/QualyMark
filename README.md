@@ -9,7 +9,7 @@ QualyMark is a Blockchain-based Fake Product Identification System that verifies
 ## Applications
 - Ensures product authenticity
 - Reduces counterfeit products
-- Provides transparency in the supply chain for both manufacturers and the users
+- Provides transparency in the supply chain for both manufacturers and users
 - Builds trust between manufacturers and consumers
 - Enables manufacturers to protect their brand reputation
 ##
